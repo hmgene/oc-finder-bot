@@ -1,6 +1,8 @@
 
 # oc-finder-bot
 ## readings
+Basic: https://learnprompting.org/docs/basics/intro
+
 PROMPT PRE-TRAINING WITH TWENTY-THOUSAND CLASSES FOR OPEN-VOCABULARY VISUAL RECOGNITION https://arxiv.org/pdf/2304.04704v1.pdf
 
 ## News
